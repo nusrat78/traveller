@@ -6,8 +6,9 @@ body{
     font-size: 40px;
     font-weight: bolder;
 }
-section{
+.flexible-org{
     display: flex;
+    margin-bottom: 150px;
 }
 
 .org-div{
@@ -36,4 +37,40 @@ section{
     font-weight: 700;
     line-height: 3;
 }
+.mission{
+    text-align: center;
+}
     
+}
+.past-section{
+    width: 50%;
+    border-radius: 10%;
+
+}
+footer p{
+    text-align: center;
+    background: lightskyblue;
+    height: 100px;
+    width: 1400px;
+}
+    
+.coxs-bazar{
+    background-color: lightgrey;
+  width: 300px;
+  
+  padding: 50px;
+  margin: 20px;
+}
+.saint-martin{
+    background-color: lightpink;
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+}
+.sajek{
+    background-color: lightsalmon;
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+}
+}
